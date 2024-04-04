@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.ejercicio1;
+package ar.unju.edu.fi.ejercicio1;
 
 public class Main {
 	public static void main(String[] args) {
