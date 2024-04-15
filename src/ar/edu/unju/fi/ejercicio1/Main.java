@@ -1,4 +1,4 @@
-package ar.unju.edu.fi.ejercicio1;
+package ar.edu.unju.fi.ejercicio1;
 
 public class Main {
 	public static void main(String[] args) {
@@ -9,6 +9,7 @@ public class Main {
 		float quintoNumero = 9;
 		
 		float promedio = (primerNumero + segundoNumero + tercerNumero + cuartoNumero + quintoNumero)/2;
+		
 		System.out.println("El promedio es: "+ promedio );
 	}
 }
